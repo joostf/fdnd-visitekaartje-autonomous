@@ -17,7 +17,7 @@ body {
 }
 
 article {
-  width: 35vw;
+  width: 30vw;
   max-width: 50em;
   min-width: 20em;
   display: flex;
